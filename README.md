@@ -2,11 +2,13 @@
 
 Tietoa Helsingin kaupungin asunnoista – ja hieman enemmän.
 
+<img width="862" alt="heatmap" src="https://github.com/mrnilcs/helsingin-kaupungin-vuokra-asunnot/assets/46895917/fc545750-d4dc-4c07-a2c2-9386f81836c4">
+
 Tiedosto `heka.csv` soveltuu automaattiseen tietojenkäsittelyyn ja mielenkiintoisten havaintojen tekemiseen. Aineistoa tutkimalla voi esimerkiksi havaita, missä on eniten Helsingin kaupungin asuntotuotantotoimiston (HEKA) asuntoja. Tiedosto tarjoaa arvokasta tietoa tutkijoille, kaupunkisuunnittelijoille ja asuntomarkkinoiden analyytikoille.
 
-| ![Top 10 asuinaluetta postinumeron perusteella](https://github.com/mrnilcs/helsingin-kaupungin-vuokra-asunnot/assets/46895917/bb058f33-0ace-4cf3-b6b2-96dc59c2cc7c) | ![Tämä histogrammi esittää rakennusten ikäjakaumaa HEKA:n hallinnoimissa kiinteistöissä](https://github.com/mrnilcs/helsingin-kaupungin-vuokra-asunnot/assets/46895917/a086f342-1a72-47f9-90ee-4c95cf41069a) |
-| --- | --- |
-| ![Keskimääräinen vuokra top 10 alueille.](https://github.com/mrnilcs/helsingin-kaupungin-vuokra-asunnot/assets/46895917/cd1e912f-7b98-40c2-90eb-6f0aff6f3f66) | ![heka.geojson-tiedosto geojson.io:ssa](https://github.com/mrnilcs/helsingin-kaupungin-vuokra-asunnot/assets/46895917/09ca96ff-0b72-45b5-be60-dd617263d885) |
+![Top 10 asuinaluetta postinumeron perusteella](https://github.com/mrnilcs/helsingin-kaupungin-vuokra-asunnot/assets/46895917/bb058f33-0ace-4cf3-b6b2-96dc59c2cc7c) 
+
+
 
 
 ## Karttatiedosto (WGS84 GeoJSON)
