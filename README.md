@@ -2,7 +2,10 @@
 
 Tietoa Helsingin kaupungin asunnoista – ja hieman enemmän.
 
+
+## HEKA lämpökartta
 <img width="862" alt="heatmap" src="https://github.com/mrnilcs/helsingin-kaupungin-vuokra-asunnot/assets/46895917/fc545750-d4dc-4c07-a2c2-9386f81836c4">
+[https://shmdgj.csb.app/]([https://geojson.io/](https://shmdgj.csb.app/))
 
 Tiedosto `heka.csv` soveltuu automaattiseen tietojenkäsittelyyn ja mielenkiintoisten havaintojen tekemiseen. Aineistoa tutkimalla voi esimerkiksi havaita, missä on eniten Helsingin kaupungin asuntotuotantotoimiston (HEKA) asuntoja. Tiedosto tarjoaa arvokasta tietoa tutkijoille, kaupunkisuunnittelijoille ja asuntomarkkinoiden analyytikoille.
 
