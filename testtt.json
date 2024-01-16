@@ -2432,7 +2432,7 @@
   },
   {
     "Postinumero": 1,
-    "Alue": "0ra",
+    "Alue": "Eira",
     "Kuvaus": "1h,avok,wc,s",
     "neliöt": "33,5",
     "myyntihinta": 345000,
@@ -2445,7 +2445,7 @@
   },
   {
     "Postinumero": 1,
-    "Alue": "Hernesaari,0ranranta,munkkisaari",
+    "Alue": "Hernesaari,Eiranranta,munkkisaari",
     "Kuvaus": "1 h + k",
     "neliöt": "45,5",
     "myyntihinta": 310000,
@@ -2666,7 +2666,7 @@
   },
   {
     "Postinumero": 1,
-    "Alue": "0ra",
+    "Alue": "Eira",
     "Kuvaus": "2h+kk+s",
     "neliöt": 42,
     "myyntihinta": 398000,
@@ -2874,7 +2874,7 @@
   },
   {
     "Postinumero": 1,
-    "Alue": "0ra",
+    "Alue": "Eira",
     "Kuvaus": "3h,k,kph,par",
     "neliöt": 67,
     "myyntihinta": 572000,
@@ -2887,7 +2887,7 @@
   },
   {
     "Postinumero": 1,
-    "Alue": "0ra",
+    "Alue": "Eira",
     "Kuvaus": "3 h,k,ruokail",
     "neliöt": "86,3",
     "myyntihinta": 1018000,
