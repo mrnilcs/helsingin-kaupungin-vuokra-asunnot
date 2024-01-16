@@ -1,0 +1,209 @@
+area_name,description,house_type,m2,price,price_sqm,build_year,floor,has_elevator,condition,own_property,energy_class,fetchedAt
+Malmi,5h+k+khh+3xwc+2,ok,"88,00",395000,4489,1920,,ei,tyyd.,oma,E2018,2024-01-16
+Malmi,"4h, k, s, kph, ",rt,"93,00",250000,2688,1983,2/2,ei,hyvä,vuokra,E2013,2024-01-16
+Koskela,"4h, avok, s, er",kt,"97,00",442000,4557,2022,6/7,on,hyvä,vuokra,B2018,2024-01-16
+Puistola,"4h, k, s, kph (",rt,"98,50",277000,2812,1984,1/2,ei,hyvä,vuokra,E2007,2024-01-16
+Länsi-pakila,"4h, k, s+autota",rt,"112,00",342500,3058,1971,1/1,ei,tyyd.,oma,E,2024-01-16
+Ullanlinna,4h+k+kph+2x eri,kt,"116,00",1220000,10517,1908,2/3,ei,hyvä,oma,F2018,2024-01-16
+Mellunmäki,"4h, k, kph, s, p",kt,"96,50",225000,2332,1975,1/3,ei,tyyd.,oma,E2007,2024-01-16
+Kallio,"4h, avokeitti",kt,"69,50",297000,4273,1984,7/8,on,huono,oma,E2013,2024-01-16
+Pihlajamäki,4h+kk+parveke,kt,"76,00",115000,1513,1963,1/7,on,tyyd.,vuokra,F2013,2024-01-16
+Mellunmäki,"3-4 h,k",kt,"86,00",180000,2093,1968,1/3,ei,hyvä,oma,,2024-01-16
+Itäkeskus,"4h, k, s, parve",kt,"88,00",150000,1705,1981,3/4,on,huono,vuokra,D2018,2024-01-16
+Töölö,"4k,k",kt,"114,00",496000,4351,1927,5/6,on,tyyd.,oma,D2007,2024-01-16
+Ruskeasuo,"4-5h, k, kph,wc",kt,"86,30",491684,5697,1966,3/3,ei,hyvä,vuokra,E2007,2024-01-16
+Käpylä,"4h, k, s, kph/w",kt,"91,00",385000,4231,1985,2/3,ei,tyyd.,vuokra,F2013,2024-01-16
+Kruununhaka,"4h,k",kt,"136,00",980000,7206,1926,6/7,on,tyyd.,oma,,2024-01-16
+Käpylä,5h + k + kph + wc,rt,"76,00",625000,8224,1921,-1/2,ei,hyvä,vuokra,F2018,2024-01-16
+Puistola,4 + k + S,rt,"96,00",207000,2156,1966,1/1,ei,tyyd.,oma,,2024-01-16
+Vuosaari,"4h, k, kph, s, ",rt,"98,00",383000,3908,2002,1/2,ei,hyvä,oma,E2007,2024-01-16
+Viikinmäki,"4h, k, 2x kph, ",rt,"98,00",426000,4347,2014,-1/2,on,hyvä,vuokra,C2013,2024-01-16
+Puotinharju,"4h, k, kph, 2vh",kt,"87,00",181500,2086,1962,1/5,on,huono,vuokra,D2018,2024-01-16
+Kulosaari,"3-4h, avok, kph",rt,"90,00",676000,7511,1960,-1/2,ei,hyvä,oma,E2007,2024-01-16
+Käpylä,"5h, k, kph, eri",kt,"99,50",545000,5477,1954,1/3,ei,hyvä,vuokra,E2018,2024-01-16
+Lehtisaari,"6h, k, rt, takk",rt,"156,10",635000,4068,1967,3/3,ei,hyvä,vuokra,,2024-01-16
+Tammisalo,"5-6h, k, 3xvh, ",rt,"231,00",960000,4156,1974,1/3,ei,hyvä,oma,E2013,2024-01-16
+Alppila,"4h, rt, k, kph,",kt,"86,00",634000,7372,2016,4/7,on,hyvä,oma,C2013,2024-01-16
+Malmi,"5 h, k, 2 kph, ",ok,"138,00",487000,3529,2011,,ei,hyvä,vuokra,,2024-01-16
+Länsi-pakila,"3-4 h,k,s,kph/2",rt,"106,50",476000,4469,1994,-1/2,ei,hyvä,oma,F,2024-01-16
+Malmi,"4h,avok,3kph,s,",rt,"109,00",431000,3954,2017,1/3,ei,hyvä,oma,C2013,2024-01-16
+Viikki,"5h, k, kph/saun",rt,"124,00",437000,3524,2006,1/2,ei,tyyd.,oma,D2018,2024-01-16
+Kruununhaka,4h+k+kph+palv.h,kt,"127,50",920000,7216,1911,4/6,on,tyyd.,oma,F2013,2024-01-16
+Myllypuro,4h+avok+kph+eri,kt,"77,00",235000,3052,1964,3/4,ei,hyvä,vuokra,D2007,2024-01-16
+Kivikko,"5h, k, sauna + ",rt,"100,00",240000,2400,1999,1/2,ei,tyyd.,vuokra,F2013,2024-01-16
+Puistola,5h+k+khh+s+ak,rt,"110,00",455000,4136,2012,1/2,ei,hyvä,oma,A2013,2024-01-16
+Lauttasaari,4h+k+parveke,kt,"73,00",486000,6658,1960,3/5,on,hyvä,oma,E2013,2024-01-16
+Puotila,"4h, k, kph, par",kt,"79,00",238000,3013,1961,2/3,ei,tyyd.,vuokra,E2007,2024-01-16
+Taka-töölö,4 h+k+halli+kph,kt,"95,00",706009,7432,1929,3/6,on,hyvä,oma,F2013,2024-01-16
+Oulunkylä,"6h,k,saunaos.,u",rt,"182,50",415000,2274,1972,-1/2,ei,tyyd.,oma,D2018,2024-01-16
+Oulunkylä,"4h, k, työ",kt,"90,00",270000,3000,1963,2/3,ei,hyvä,oma,F2013,2024-01-16
+Paloheinä,"4 h, avokeitti&",rt,"93,00",315000,3387,1986,1/2,ei,hyvä,vuokra,E2013,2024-01-16
+Etu-töölö,"3-4h,k,kph,wc",kt,"138,00",790000,5725,1936,5/6,on,huono,oma,G2013,2024-01-16
+Tapaninvainio,"4h, k, rt, s, 2",ok,"140,00",435000,3107,1956,,ei,hyvä,oma,,2024-01-16
+Tammisalo,4h+k+2x kph+sau,rt,"158,00",480000,3038,1974,-1/2,ei,tyyd.,oma,D2018,2024-01-16
+Marjaniemi,5h+varasto/harr,rt,"190,00",475000,2500,1989,1/3,ei,hyvä,oma,F2013,2024-01-16
+Töyrynummi,"4h, k, s/ph, er",rt,"87,00",319000,3667,1997,1/1,ei,hyvä,oma,E2007,2024-01-16
+Tapaninvainio,"5-6h, avokeitti",ok,"220,00",783000,3559,2021,,ei,hyvä,oma,A2018,2024-01-16
+Tapulikaupunki,5h+k+kph+s,rt,"113,00",215000,1903,1978,-1/2,ei,tyyd.,vuokra,E2007,2024-01-16
+Vuosaari,"5h, k, wc, kylp",kt,"99,00",233000,2354,1965,4/8,on,tyyd.,oma,F2013,2024-01-16
+Munkkivuori,4 h + k +kph + ,kt,"71,50",395000,5524,1959,2/6,on,tyyd.,oma,D2018,2024-01-16
+Tapanila,"4 h, k, 2 kh, 3",kt,"98,50",510000,5178,2008,2/3,on,hyvä,oma,D2013,2024-01-16
+Veräjämäki,"4h, k, kph, eri",kt,"101,00",348000,3446,1963,2/3,on,tyyd.,vuokra,F2013,2024-01-16
+Laajasalo,"4h, k, s, kph, ",rt,"116,00",375000,3233,1987,-1/2,ei,tyyd.,oma,,2024-01-16
+Yliskylä,"3-4h, kt, sauna",kt,"85,00",348000,4094,2020,1/4,on,hyvä,oma,B2018,2024-01-16
+Käpylä,"3h, k, kph, par",kt,"60,00",268000,4467,1952,3/4,ei,hyvä,vuokra,E2007,2024-01-16
+Ullanlinna,"3h, kk, kph, wc",kt,"60,00",344000,5733,1927,1/7,ei,huono,oma,E2013,2024-01-16
+Munkkivuori,"3 h, k, kph, p ",kt,"60,50",295000,4876,1960,2/4,ei,hyvä,vuokra,D2018,2024-01-16
+Lauttasaari,"3h, k, kh, p",kt,"65,00",362000,5569,1959,1/3,ei,hyvä,oma,F2013,2024-01-16
+Kamppi,3 h+k+kph+wc,kt,"74,70",452000,6051,1908,2/5,ei,huono,oma,E2018,2024-01-16
+Taka-töölö,3 h+k+kph,kt,"81,00",600000,7407,1939,,ei,hyvä,oma,E2018,2024-01-16
+Aurinkolahti,"3h, k, kph, s, ",kt,"82,00",313000,3817,2007,1/2,on,hyvä,oma,C2007,2024-01-16
+Kallio,"3h, avok, kph, vh",kt,"57,00",297000,5211,1959,2/7,on,hyvä,oma,F2013,2024-01-16
+Kannelmäki,3h+kk,kt,"60,00",196000,3267,1959,2/3,ei,,vuokra,E2018,2024-01-16
+Jätkäsaari,"3h, kt, kph, sa",kt,"64,00",458000,7156,2021,4/6,on,hyvä,oma,B2018,2024-01-16
+Lauttasaari,3h+k+kph,kt,"65,00",410000,6308,1958,3/3,ei,hyvä,oma,E2007,2024-01-16
+Käpylä,"3h, k, kph, er",kt,"67,00",357000,5328,1952,3/3,ei,tyyd.,vuokra,E,2024-01-16
+Puotila,3h+k+kph+vh+p (,kt,"57,00",218000,3825,1961,1/3,ei,hyvä,vuokra,F2013,2024-01-16
+Kannelmäki,"3h, k, kph, las",kt,"62,00",212000,3419,1976,2/6,on,hyvä,oma,D2007,2024-01-16
+Maunula,3h+k,kt,"62,50",220000,3520,1962,2/4,ei,hyvä,vuokra,E,2024-01-16
+Pitäjänmäki,"3h,avok,kph,s,v",kt,"73,50",260000,3537,1986,2/3,ei,hyvä,oma,C2018,2024-01-16
+Lauttasaari,"3h, avokeitti",kt,"83,00",630000,7590,2014,3/6,on,hyvä,oma,B2018,2024-01-16
+Oulunkylä,3h+kk+kph+p,kt,"59,00",268100,4544,2023,5/5,on,hyvä,,B2018,2024-01-16
+Etelä-haaga,3h+k+vh+kph+las,kt,"72,00",388000,5389,1970,1/3,on,hyvä,oma,G2007,2024-01-16
+Kontula,"3h, k, kph, eri",kt,"73,00",168000,2301,1967,1/3,ei,hyvä,vuokra,G2013,2024-01-16
+Ruoholahti,"3h, k, kph, sau",kt,"74,50",373000,5007,1993,2/6,on,tyyd.,vuokra,C2018,2024-01-16
+Kallio,"2-3 h+k+kph/wc,",kt,"81,00",450000,5556,1939,3/6,on,hyvä,oma,F2013,2024-01-16
+Lauttasaari,"3h, avok, s, la",kt,"73,00",540000,7397,2015,2/7,on,hyvä,oma,B2018,2024-01-16
+Hernesaari,"3h, k, kph, vh,",kt,"73,00",580000,7945,1974,7/8,on,hyvä,oma,F2013,2024-01-16
+Tapanila,"3h,k,vh, 2las.p",kt,"62,00",104000,1677,1974,1/3,ei,huono,oma,E2013,2024-01-16
+Lauttasaari,"3h,kt,s",kt,"68,50",479000,6993,2017,6/6,on,hyvä,oma,C2013,2024-01-16
+Vartiokylä,"3h, k, kph/s, p",kt,"72,50",215000,2966,2000,4/5,on,tyyd.,vuokra,E2007,2024-01-16
+Itäkeskus,"3h, k, p",kt,"73,00",169000,2315,1984,2/3,ei,hyvä,vuokra,E2018,2024-01-16
+Munkkiniemi,3h+avokeitti,kt,"53,00",375000,7075,1941,5/5,on,hyvä,oma,G2013,2024-01-16
+Etelä-haaga,3h+k+p (yj 3h+k),kt,"58,00",297000,5121,1953,3/3,ei,hyvä,oma,F2018,2024-01-16
+Puotila,"3h, k, kph, par",kt,"66,00",190000,2879,1961,1/3,ei,huono,vuokra,E2007,2024-01-16
+Etelä-haaga,"3h, k, 2 parvek",kt,"66,00",320000,4848,1964,3/3,ei,tyyd.,oma,G2018,2024-01-16
+Laajasalo,3h+k,kt,"68,50",231000,3372,1970,1/3,on,tyyd.,oma,F2018,2024-01-16
+Kamppi,"3h,kph,vh",kt,"70,00",359000,5129,1928,4/5,on,huono,oma,F2013,2024-01-16
+Maunula,3h+k+kph+p (yht,kt,"63,00",240000,3810,1962,1/4,ei,hyvä,vuokra,E2018,2024-01-16
+Kruunuvuorenranta,"3h, k, kph, las",kt,"68,00",305000,4485,2018,4/7,on,hyvä,vuokra,B2018,2024-01-16
+Kurkimäki,3h+k+piha,rt,"74,00",173000,2338,1985,1/2,ei,hyvä,vuokra,F2018,2024-01-16
+Vanhankaupunginkoski,"3h, keittiö",kt,"77,00",407000,5286,2009,3/5,on,hyvä,oma,F2013,2024-01-16
+Herttoniemi,3 H+K+S+VH,kt,"67,50",365000,5407,2017,5/7,on,hyvä,oma,C2013,2024-01-16
+Lassila,"3h, k, kph/s, e",kt,"81,00",185000,2284,1981,2/2,ei,tyyd.,oma,E2018,2024-01-16
+Patola,"3h, k, rt, kph, wc",kt,"81,00",220000,2716,1973,2/3,ei,hyvä,oma,,2024-01-16
+Alppiharju,"3h, k, rt, wc, ",kt,"71,00",485000,6831,2016,5/7,on,hyvä,oma,C2013,2024-01-16
+Pukinmäki,"3h, k, kph x2, ",rt,"86,50",432000,4994,2013,,ei,hyvä,oma,,2024-01-16
+Etelä-haaga,"3h, k, rt, kph,",kt,"63,00",287000,4556,1973,2/3,ei,tyyd.,oma,E2018,2024-01-16
+Merihaka,"3h,k,kh,lasitet",kt,"67,50",345000,5111,1974,12/14,on,huono,oma,E2018,2024-01-16
+Pihlajisto,3h+kt,kt,"69,00",280075,4059,2023,1/2,on,hyvä,vuokra,,2024-01-16
+Etelä-haaga,"3h, k, kph, par",kt,"64,00",285000,4453,1958,1/3,ei,hyvä,oma,F2013,2024-01-16
+Vuosaari,"3 h, k, kph, s, p",kt,"66,00",198000,3000,2001,3/7,on,tyyd.,vuokra,F2013,2024-01-16
+Niemenmäki,"3h, k, kph/wc, ",kt,"72,00",310000,4306,1961,2/9,on,tyyd.,oma,E2018,2024-01-16
+Etelä-haaga,"3h, k, kph, p",kt,"61,00",314000,5148,1966,3/3,ei,hyvä,oma,E2013,2024-01-16
+Munkkivuori,"3h,k,kh,parveke",kt,"66,00",330000,5000,1957,2/10,on,hyvä,vuokra,G2013,2024-01-16
+Töölö,3h+kk+kph+erill,kt,"58,00",308000,5310,1939,1/6,on,tyyd.,oma,G2013,2024-01-16
+Kallio,"2h, avok, kph",kt,"43,00",248000,5767,1938,6/6,on,hyvä,oma,D2007,2024-01-16
+Kallio,2h+k+kph (yj. m,kt,"38,00",252000,6632,1959,6/6,on,hyvä,oma,G2013,2024-01-16
+Kamppi,"2 h, keittosyve",kt,"36,00",262000,7278,1929,5/5,on,hyvä,oma,E2018,2024-01-16
+Mellunkylä,2h+avokeitti,rt,"41,00",160000,3902,1992,1/1,ei,hyvä,oma,E2018,2024-01-16
+Ruskeasuo,"2h, avok. kph/wc",kt,"42,00",214000,5095,1948,1/3,ei,huono,oma,G,2024-01-16
+Kallio,"2h, k, kph, vh, p",kt,"46,50",290000,6237,1963,4/7,on,tyyd.,oma,E2013,2024-01-16
+Munkkiniemi,"2h, k, kh ,parveke",kt,"46,50",308000,6624,1952,6/6,on,tyyd.,oma,E2007,2024-01-16
+Harju,"2h, kph, k, ete",kt,"50,00",288000,5760,1926,2/5,on,tyyd.,oma,,2024-01-16
+Vuosaari,"2h, kk, s, lasi",kt,"53,50",170000,3178,2002,3/3,on,tyyd.,vuokra,,2024-01-16
+Kannelmäki,"2h, k, kph ja l",kt,"60,50",75000,1240,1977,2/4,ei,tyyd.,vuokra,F2013,2024-01-16
+Etu-töölö,"2h, k, kph",kt,"63,50",474000,7465,1913,3/5,on,tyyd.,oma,F2013,2024-01-16
+Pitäjänmäki,"2 h, k, kph, la",kt,"64,50",234000,3628,1973,3/5,on,tyyd.,oma,E2018,2024-01-16
+Vallila,2h + avok. + kp,kt,"37,50",261500,6973,2020,2/12,on,hyvä,,B2018,2024-01-16
+Koskela,"2h,kk,kph/s",kt,"40,00",179000,4475,1961,1/2,ei,hyvä,vuokra,F2018,2024-01-16
+Laajasalo,"2h, kk, kph, vh",kt,"48,50",151101,3115,1974,2/3,ei,tyyd.,oma,E2007,2024-01-16
+Vuosaari,"2h, kk, kph, pa",kt,"51,00",103000,2020,1965,3/8,on,huono,oma,F2013,2024-01-16
+Etu-töölö,"2h, avokeitti",kt,"52,00",390000,7500,1922,4/6,on,hyvä,oma,D2018,2024-01-16
+Mellunmäki,"2h, avok, sauna",kt,"53,50",195000,3645,2007,2/4,on,hyvä,oma,,2024-01-16
+Lauttasaari,"2 h, k, kh, vh,",kt,"54,00",314098,5817,1963,2/4,on,hyvä,oma,C2018,2024-01-16
+Munkkiniemi,"2h, avok, kph, ",kt,"75,50",458000,6066,1939,6/6,on,tyyd.,oma,E2018,2024-01-16
+Vilhonvuori,2h+avok.+kph+p.,kt,"47,50",265000,5579,1964,2/8,on,tyyd.,oma,F2013,2024-01-16
+Roihuvuori,"2h, kk, kph, va",kt,"50,00",197000,3940,1957,3/3,ei,hyvä,vuokra,D2007,2024-01-16
+Tapaninkylä,"2h, k, ph/s, piha",rt,"59,50",249000,4185,2007,1/1,ei,hyvä,oma,D2018,2024-01-16
+Viikki,"2h, k, kph/s, e",rt,"69,00",306700,4445,2006,1/2,ei,hyvä,oma,D2018,2024-01-16
+Kruununhaka,"2h, avok, etein",kt,"43,00",365000,8488,1908,3/5,on,hyvä,oma,F2013,2024-01-16
+Kallio,"2h, avok, kph",kt,"34,00",203000,5971,1936,1/6,on,hyvä,oma,E2018,2024-01-16
+Käpylä,"2h, kk",kt,"39,00",223000,5718,1946,1/3,ei,hyvä,vuokra,G2013,2024-01-16
+Puotila,2h+k+kph,kt,"44,00",175000,3977,1960,3/3,ei,tyyd.,vuokra,,2024-01-16
+Vuosaari,"2h, kk",kt,"47,50",185000,3895,2004,5/11,on,hyvä,oma,E2013,2024-01-16
+Munkkivuori,"2h, k, kph, p",kt,"50,00",240000,4800,1958,2/4,ei,tyyd.,oma,D2018,2024-01-16
+Pihlajisto,"2h,k,kph,p",kt,"51,00",104000,2039,1972,3/7,on,hyvä,oma,E2007,2024-01-16
+Kallio,"1-2h, keitti",kt,"51,00",236000,4627,1926,3/6,on,tyyd.,oma,G2013,2024-01-16
+Oulunkylä,2h + avok. + kph,kt,"52,00",242500,4663,1962,1/3,ei,hyvä,oma,D2013,2024-01-16
+Lauttasaari,"2 h, k, s, lasi",kt,"61,50",488000,7935,2005,5/6,on,hyvä,oma,D2013,2024-01-16
+Aurinkolahti,"2h, avok, kph, ",kt,"41,50",185000,4458,2001,1/6,on,hyvä,oma,E2013,2024-01-16
+Etu-töölö,2h+avok+kph+eri,kt,"42,50",297000,6988,1935,2/6,on,tyyd.,oma,E2013,2024-01-16
+Mellunmäki,"2h,k,kh,sauna,p",kt,"52,50",120000,2286,1987,2/3,ei,tyyd.,vuokra,E2013,2024-01-16
+Oulunkylä/veräjämäki,"2 h, k, p (Yj 2",kt,"63,50",216000,3402,1963,3/3,ei,tyyd.,vuokra,E2007,2024-01-16
+Taka-töölö,"2h, kt, kph, vh",kt,"71,50",435000,6084,1926,6/6,on,huono,oma,F2013,2024-01-16
+Herttoniemenranta,2h+avok+kph+s+v,kt,"46,00",219000,4761,1998,3/5,on,tyyd.,oma,D2007,2024-01-16
+Kontula,"2h, avok., kph, p",kt,"48,00",185000,3854,2020,2/8,on,hyvä,oma,B2018,2024-01-16
+Kallio,"2h, kk, kph",kt,"44,00",176000,4000,1938,2/6,on,tyyd.,oma,E2007,2024-01-16
+Sörnäinen,"1-2h,alkovi,avo",kt,"46,50",178500,3839,1929,1/7,on,tyyd.,oma,F2013,2024-01-16
+Herttoniemi,"2h, avok, kph, ",kt,"46,50",210000,4516,1956,2/8,on,hyvä,vuokra,G2013,2024-01-16
+Lauttasaari,"2h, k, las.parv",kt,"49,50",235000,4747,1973,1/3,on,tyyd.,oma,F2013,2024-01-16
+Munkkiniemi,2h+k+kph+parveke,kt,"51,00",325000,6373,1953,5/6,on,hyvä,oma,E,2024-01-16
+Tammisalo,1-2h+kk (yhti,kt,"37,00",176000,4757,1961,2/2,ei,hyvä,oma,E2007,2024-01-16
+Käpylä,"2h, kk, kph/wc",kt,"40,00",215000,5375,1944,2/3,ei,hyvä,vuokra,G2013,2024-01-16
+Punavuori,"2h, k, aula/kir",kt,"76,00",585000,7697,1931,3/7,on,hyvä,oma,D2018,2024-01-16
+Oulunkylä,2h+kk+kph+p,kt,"34,00",207500,6103,2023,4/5,on,hyvä,,B2018,2024-01-16
+Alppila,2h+avok.+kph+p.,kt,"39,00",257000,6590,1961,3/4,on,hyvä,oma,F2013,2024-01-16
+Alppila,2h+kk+kph+vh+la,kt,"41,00",273000,6659,1962,8/8,on,tyyd.,oma,E2007,2024-01-16
+Käpylä,1h+kk+khwc+p,kt,"29,50",173000,5864,1952,1/4,ei,hyvä,vuokra,G2013,2024-01-16
+Kruununhaka,"1h, k, kph",kt,"39,30",300000,7634,1927,3/4,on,tyyd.,oma,D,2024-01-16
+Kallio,"1h, avokeitti",kt,"40,00",210000,5250,1928,3/6,on,tyyd.,oma,F2007,2024-01-16
+Itä-pasila,"1h, kk, kph",kt,"31,50",158000,5016,1976,11/13,on,tyyd.,vuokra,E2018,2024-01-16
+Malmi,"1h, kk, kph, sa",kt,"33,00",135000,4091,1986,2/4,ei,hyvä,oma,F2013,2024-01-16
+Hietalahti,"1h,kt,kph,parveke",kt,"33,00",329000,9970,2024,3/8,on,,oma,C2018,2024-01-16
+Hietalahti,"1h,kt,kph,parveke",kt,"25,00",269000,10760,2024,4/8,on,,oma,C2018,2024-01-16
+Vuosaari,"1h, kk, kph, pa",kt,"31,00",115000,3710,1971,6/6,on,tyyd.,oma,G2013,2024-01-16
+Puotila,1 h+kk+kph+p,kt,"24,50",130000,5306,1970,2/3,ei,hyvä,oma,F2018,2024-01-16
+Lassila,"1h, avok. kph, ",kt,"26,00",114000,4385,1984,1/3,ei,hyvä,oma,F2013,2024-01-16
+Kallio,1h+kk+kph,kt,"30,00",96000,3200,1927,5/6,on,tyyd.,oma,E2018,2024-01-16
+Alppila,"1h,kk, vh ja kph",kt,"26,00",152000,5846,1962,3/10,on,tyyd.,oma,C2018,2024-01-16
+Malmi,"1h, avok, kph, ",kt,"28,00",119000,4250,2020,3/4,on,hyvä,vuokra,B2018,2024-01-16
+Munkkivuori,"1h, kk, kph, et",kt,"28,50",189000,6632,1959,5/6,on,hyvä,oma,D2018,2024-01-16
+Munkkiniemi,"1h, kk, kph, pa",kt,"33,00",195000,5909,1954,1/4,ei,huono,oma,F2013,2024-01-16
+Kallio,1h+k+kph+wc,kt,"37,50",205996,5493,1927,6/7,on,tyyd.,oma,F2013,2024-01-16
+Alppila,"1h, k, kph",kt,"27,00",160000,5926,1928,3/4,ei,tyyd.,oma,F2018,2024-01-16
+Yliskylä,1h+kk,kt,"29,00",131040,4519,1971,2/5,on,tyyd.,oma,E2018,2024-01-16
+Lauttasaari,1h+kk+alkovi+kph,kt,"30,00",210000,7000,1954,1/4,on,hyvä,oma,F2018,2024-01-16
+Kallio,1h + avokeitti&,kt,"30,50",198500,6508,1929,3/6,on,tyyd.,oma,E2013,2024-01-16
+Oulunkylä,"1 h, kt, kh, p ",kt,"39,00",136000,3487,1983,2/2,ei,tyyd.,oma,D2018,2024-01-16
+Alppila,"1h, avokeitti",kt,"42,50",310000,7294,1920,2/7,on,tyyd.,oma,F2013,2024-01-16
+Töölö,"huone, kk, kph",kt,"19,00",164000,8632,1933,2/6,on,tyyd.,oma,E2018,2024-01-16
+Ullanlinna,"1h, kt, kph",kt,"25,00",208000,8320,1935,5/5,on,tyyd.,oma,E2013,2024-01-16
+Pihlajisto,1h+kt,kt,"30,00",170000,5667,2023,,on,hyvä,vuokra,,2024-01-16
+Pitäjänmäki,1h+kk,kt,"30,40",89000,2928,1964,1/3,ei,tyyd.,vuokra,E2018,2024-01-16
+Kontula,"1h, kk, kph",kt,"31,00",122500,3952,1970,5/8,on,hyvä,oma,G2013,2024-01-16
+Pasila,"1h, avok, kph, ",kt,"30,00",240000,8000,2020,2/12,on,hyvä,oma,C2013,2024-01-16
+Munkkivuori,1h+kk+kph,kt,"31,50",174000,5524,1958,2/4,ei,hyvä,oma,D2007,2024-01-16
+Punavuori,"1h, avok, kph j",kt,"38,00",333000,8763,1875,3/5,ei,hyvä,oma,E2018,2024-01-16
+Etu-töölö,"1h, avok, kph",kt,"24,20",215000,8884,1926,2/6,on,tyyd.,oma,F2013,2024-01-16
+Kamppi,"1h, kk, kph, pa",kt,"26,00",185000,7115,1981,2/7,on,tyyd.,oma,E2013,2024-01-16
+Maunula,"1h, kk, kph",kt,"24,10",95000,3942,1952,1/4,ei,,vuokra,D2018,2024-01-16
+Lauttasaari,"1h, k, kph, ete",kt,"31,50",220000,6984,1966,3/5,on,hyvä,oma,F2013,2024-01-16
+Suurmetsä,"1h, k, kph",kt,"33,50",68000,2030,1973,1/3,ei,huono,vuokra,F2013,2024-01-16
+Alppiharju,1h+k+et+wc+sh,kt,"36,60",260000,7104,1912,4/6,on,hyvä,oma,E2007,2024-01-16
+Kallio,1h+alkovi+k+kph,kt,"45,30",246000,5430,1925,3/6,on,hyvä,oma,D2018,2024-01-16
+Lassila,"1h, kk, kph, s,",kt,"35,00",130000,3714,1984,2/5,on,tyyd.,oma,E2018,2024-01-16
+Kallio,"1h,k, alkovi",kt,"41,00",214000,5220,1939,6/6,on,tyyd.,oma,F2013,2024-01-16
+Torkkelinmäki,"1h, k, kph",kt,"44,70",255000,5705,1928,2/4,ei,huono,oma,E2018,2024-01-16
+Kallio,"1h, avok, alkov",kt,"26,00",195000,7500,1929,4/4,ei,tyyd.,oma,D2018,2024-01-16
+Pitäjänmäki,"1h, k, kph, p",kt,"32,50",79290,2440,1974,1/5,on,tyyd.,oma,F2013,2024-01-16
+Pohjois-haaga,1h+kk,kt,"27,00",115000,4259,1954,1/3,ei,tyyd.,oma,F2013,2024-01-16
+Puotila,"1h, kk, vaatehu",kt,"28,30",92000,3251,1961,2/3,ei,huono,vuokra,E2007,2024-01-16
+Katajanokka,"1h, k",kt,"41,00",220000,5366,1981,3/5,on,hyvä,vuokra,D2018,2024-01-16
+Kallio,"1h,kk",kt,"18,60",120000,6452,1931,4/7,on,huono,oma,E2007,2024-01-16
+Sörnäinen,1h ja kk,kt,"25,00",130000,5200,1937,4/8,on,tyyd.,oma,E2018,2024-01-16
+Etelä-haaga,"1h, kk, kh, parv",kt,"30,00",175000,5833,1961,1/3,ei,hyvä,oma,F2007,2024-01-16
+Etelä-haaga,"1h,kk, kph, alk",kt,"30,50",166000,5443,1961,1/3,ei,hyvä,oma,F2007,2024-01-16
+Itä-pasila,"1h, kk, kph, la",kt,"35,50",111000,3127,1975,1/5,on,huono,vuokra,D2018,2024-01-16
+Arabianranta,"1-2h, k",kt,"47,50",296000,6232,2015,6/9,on,hyvä,oma,B2018,2024-01-16
+Meilahti,"1h, kk, kph",kt,"24,00",185000,7708,1946,4/7,on,hyvä,oma,E2013,2024-01-16
